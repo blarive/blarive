@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Bruno !
 
-### 🎣 Développeur Passionné | Amateur de Pêche | Arch Linux User
+### 🎣 Développeur Amateur | Féru de Pêche | Arch Linux User
 
 Je construis des outils modernes, légers et surtout **respectueux de la vie privée**. Mon objectif est de créer des applications qui fonctionnent localement pour l'utilisateur, sans fioritures inutiles.
 
